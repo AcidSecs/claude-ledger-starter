@@ -17,5 +17,6 @@
     "usage",
     "instructions"
   ],
-  "icon": ".claude-plugin/icon.png"
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://github.com/AcidSecs/claude-ledger-starter#data-handling"
 }

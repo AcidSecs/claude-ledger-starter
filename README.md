@@ -20,3 +20,7 @@ Works with claude-setup-wizard (switch on or off) and the other companion plugin
 Created by Soroosh Hedayat
 
 Designed in Collaboration by: VectorNine Systems Inc. & Acid Secs Productions Inc.
+
+## Data handling
+
+It reads and writes your own rule documents in your own Google Drive. Whatever you put in them is yours and stays in your Drive. Nothing is sent to the authors of this plugin. We run no server and receive no data, so nothing is retained by us. The plugin sends nothing to any outside service. Everything it makes stays on your own PC or in your own Google Drive and Claude account, and you can delete it any time.
