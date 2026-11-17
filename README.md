@@ -18,4 +18,5 @@ Nothing except to your own Google Drive through the connector you already approv
 Works with claude-setup-wizard (switch on or off) and the other companion plugins.
 
 Created by Soroosh Hedayat
+
 Designed in Collaboration by: VectorNine Systems Inc. & Acid Secs Productions Inc.

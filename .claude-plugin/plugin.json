@@ -3,9 +3,19 @@
   "displayName": "Ledger Starter for Claude",
   "version": "0.1.0",
   "description": "Creates a Google Drive folder of short rule pages (ledgers) that every Claude chat reads first, so you stop repeating yourself and save usage. Needs the Google Drive connector.",
-  "author": { "name": "VectorNine Systems Inc. & Acid Secs Productions Inc." },
+  "author": {
+    "name": "VectorNine Systems Inc. & Acid Secs Productions Inc."
+  },
   "homepage": "https://github.com/AcidSecs/claude-ledger-starter",
   "repository": "https://github.com/AcidSecs/claude-ledger-starter",
   "license": "SEE LICENSE IN LICENSE",
-  "keywords": ["ledger", "rules", "memory", "google drive", "usage", "instructions"]
+  "keywords": [
+    "ledger",
+    "rules",
+    "memory",
+    "google drive",
+    "usage",
+    "instructions"
+  ],
+  "icon": ".claude-plugin/icon.png"
 }
